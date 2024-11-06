@@ -7,3 +7,21 @@ We are Tbilisi JS - a professional community, open to all, that brings together 
 We organize meetups and conferences to foster a vibrant community where people can network, learn, and collaborate. Our events are not limited to JavaScript and TypeScript; we also cover various topics, from infrastructure and DevOps to product management and team dynamics. This variety ensures that there's something for everyone in our community.
 
 Whether you're a seasoned professional or just starting out, Tbilisi JS is a welcoming space to connect, share your insights, and gain new perspectives. We look forward to seeing you at our upcoming events and growing together as a community!
+
+---
+
+## Events
+
+- Tbilisi JS Meetup #1, January 2024
+- Tbilisi JS Meetup #2, March 2024
+- Tbilisi JS Conf, June 2024
+- Tbilisi Rust Day, Semptember 2024
+- Tbilisi JS Meetup #3, October 2024
+- Tbilisi A11y & UX Day, November 2024
+- Tbilisi JS #4 — coming soon!
+
+## Tbilisi JS Meetup #1, January 2024
+
+- [Telegram Announce](https://t.me/tbilisi_js/7)
+- YouTube playlist
+- 
